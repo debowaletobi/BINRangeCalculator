@@ -97,13 +97,3 @@ button:hover {
     font-size: 18px;
 }
 
-.pan-options {
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    background-image: none; /* Remove default arrow */
-    background-color: transparent; /* Set background color to transparent */
-    padding-right: 20px; /* Add padding to make space for custom arrow */
-    background-position: right center; /* Position the background image */
-    background-repeat: no-repeat; /* Prevent repeating the background image */
-}
